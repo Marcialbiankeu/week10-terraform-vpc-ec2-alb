@@ -2,6 +2,8 @@
 **/.terraform/*
 **/.infracost/*
 **/.terraform.lock.hcl/*
+**/.code.sh/*
+**/.alb.sh/*
 # .tfstate files
 *.tfstate
 *.tfstate.*
